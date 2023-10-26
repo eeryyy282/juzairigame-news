@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'Tidak ditemukan akun tersebut di dalam database Juzairi Game News, mohon lakukan registrasi terlebih dahulu',
+    'failed' => 'Tidak ditemukan akun tersebut di dalam database Juzairi Game News, mohon periksa kembali Username dan Passoword',
     'password' => 'Password yang anda masukkan salah.',
     'throttle' => 'Terlalu banyak melakukan login. Coba lagi dalam :seconds seconds.',
 
